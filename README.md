@@ -33,7 +33,7 @@ This is a Pancake Maker with Dynamic Pricing project! This interactive tool allo
 
 Fonts from [Google Fonts](https://fonts.google.com/).
 Image from [Unsplash](https://unsplash.com/).
-Exercise created by our group mentor Margit Tennosar.
+Exercise created by our group mentor Margit Tennosaar.
 
 ## Get in Touch
 
