@@ -25,9 +25,9 @@ This is a Pancake Maker with Dynamic Pricing project! This interactive tool allo
 
 - None. The project utilizes HTML, CSS, and vanilla JavaScript without external libraries.
 
-## Contributors
+## Link to see the project
 
-- [Your Name](https://github.com/yourusername) - Initial development
+- (https://popadana10.github.io/pancake_maker/)
 
 ## Acknowledgments
 
